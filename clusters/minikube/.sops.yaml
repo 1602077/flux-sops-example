@@ -1,4 +1,4 @@
 creation_rules:
   - path_regex: .*.yaml
     encrypted_regex: ^(data|stringData)$
-    pgp: ${MINIKUBE_AGEKEY_FP}
+    age: age1xe8zr2wnpmnmt7snmzjhcemxdgtq7xxs5s39lyhnh6p2esprj5qses8e0d
