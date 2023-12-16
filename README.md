@@ -1,9 +1,7 @@
 # flux-sops-example
 
 Example repository for configuring in-cluster decryption of SOPS-encrypted
-secrets with age using `Flux`. This closely follows Flux's [documentation]
-(https://fluxcd.io/flux/guides/mozilla-sops/#configure-in-cluster-secrets-decryption)
-.
+secrets with age using `Flux`. This closely follows Flux's [documentation](https://fluxcd.io/flux/guides/mozilla-sops/#configure-in-cluster-secrets-decryption).
 
 ## Bootstrapping Cluster
 
